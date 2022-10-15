@@ -1,0 +1,4 @@
+grpcio-tools
+filetype
+numpy
+opencv-python

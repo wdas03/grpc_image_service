@@ -1,0 +1,6 @@
+image_pb2_grpc.py
+image_pb2.py
+README.ipynb
+.ipynb_checkpoints
+__pycache__
+.DS_STORE
